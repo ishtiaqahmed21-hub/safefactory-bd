@@ -1,6 +1,6 @@
 # SafeFactory BD — Technical Report
 
-**An ISO 45001-aligned HSE management and site risk intelligence system for Bangladeshi food and dairy manufacturing**
+**ISO 45001-aligned HSE management system for Bangladeshi manufacturing — HIRA, permit to work, LOTO, incident metrics and a compliance matrix mapped to the Labour Act, with a worked dairy and snack-plant register**
 
 Ishtiaq Ahmed
 Industrial and Production Engineering, Islamic University of Technology
