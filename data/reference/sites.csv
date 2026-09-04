@@ -1,0 +1,13 @@
+site_id,site_name,site_type,district,lat,lon,coordinate_precision,coordinate_note
+S01,NZDP Factory 1 - Vulta Rupganj,Food & dairy processing,Narayanganj,23.7833,90.5333,Approximate (sub-district centroid),"Geocoded from the published factory address 'Vulta, Rupganj, Narayanganj'; replace with a surveyed coordinate before operational use"
+S02,NZDP Factory 2 - Jangalipara Gazipur,Food & dairy processing,Gazipur,24.0000,90.4200,Approximate (sub-district centroid),"Geocoded from the published factory address 'Jangalipara, Gazipur'; replace with a surveyed coordinate before operational use"
+S03,NZDP Head Office - Tejgaon,Corporate office,Dhaka,23.7639,90.3936,Approximate (area centroid),Geocoded from the published head-office address in Tejgaon Industrial Area
+S04,Tongi Industrial Area,Mixed manufacturing,Gazipur,23.8915,90.4023,Area centroid,Reference comparator - dense mixed industrial belt north of Dhaka
+S05,DEPZ Savar,Export processing zone,Dhaka,23.8900,90.2600,Area centroid,Reference comparator - Dhaka Export Processing Zone
+S06,Ashulia Industrial Belt,Garment & textile,Dhaka,23.9200,90.3400,Area centroid,Reference comparator - high-density RMG cluster
+S07,Narayanganj Town Industrial,Textile & dyeing,Narayanganj,23.6135,90.5030,City centroid,Reference comparator - old textile and dyeing district
+S08,Chattogram Industrial Area,Mixed manufacturing & port,Chattogram,22.3384,91.8317,City centroid,Reference comparator - port-side industry
+S09,Bogura Industrial Area,Light manufacturing & agro,Bogura,24.8510,89.3711,City centroid,Reference comparator - regional agro-processing centre
+S10,Cumilla Industrial Area,Mixed manufacturing,Cumilla,23.4619,91.1850,City centroid,Reference comparator - regional industrial centre
+S11,Sylhet Industrial Area,Agro & food processing,Sylhet,24.8990,91.8720,City centroid,Reference comparator - regional food-processing centre
+S12,Dinajpur Agro Belt,Agro-processing,Dinajpur,25.6275,88.6378,City centroid,Reference comparator - low-density agro region

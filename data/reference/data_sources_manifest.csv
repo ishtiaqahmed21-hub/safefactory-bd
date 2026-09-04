@@ -1,0 +1,26 @@
+id,category,name,method,url,notes
+rsc_factories,safety,RSC factory inspection & remediation database,scrape,https://rsc.bol-online.com/en/factories,Paginated HTML table; per-factory CAP PDFs linked
+accord_bd,safety,International Accord Bangladesh factory & remediation reports,html,https://internationalaccord.org/bangladesh-factories/,Quarterly remediation PDFs linked from page
+dife_lims,safety,DIFE Labour Information Management System,html,https://lims.dife.gov.bd/,Public summary/statistical reports only
+dife_lima_doc,safety,ILO LIMA system briefing note,file,https://www.ilo.org/media/418136/download,PDF describing LIMA modules & access
+srs_2025,safety,SRS workplace fatality survey 2025 (802 deaths / 713 accidents),html,https://safetyandrights.org/,Press release + annual report PDFs
+srs_2024,safety,SRS workplace fatality survey 2024 (758 deaths / 639 accidents),html,https://safetyandrights.org/758-workers-killed-in-workplace-accidents-across-bangladesh-in-2024/,Sector breakdown in body text
+srs_reports,safety,SRS annual reports index,html,https://safetyandrights.org/publications/annual-report/,Annual Report 2024 and 2025 PDFs
+fes_postaccord,safety,Industrial Safety in RMG Post-Accord-Alliance Era (FES),file,https://bangladesh.fes.de/fileadmin/user_upload/Industrial-Safety-in-the-RMG-Sector-in-the-Post-Accord-Alliance-Era.pdf,Inspection status tables by factory category
+fscd_stats,safety,Fire Service & Civil Defence annual fire statistics,html,http://www.fireservice.gov.bd/,Bengali PDF; 27059 incidents in 2025
+bbs_labour,safety,BBS Labour Force Survey 2024 final report (PDF + Excel),html,https://bbs.gov.bd/site/page/111d09ce-718a-4ae6-8188-f7d938ada348/,Excel version of LFS 2024 published here
+ilo_lfs2023,safety,ILO surveyLib - Bangladesh LFS 2023 microdata,manual,https://webapps.ilo.org/surveyLib/index.php/catalog/8802,Requires free account + stated research purpose
+ilo_lfs2022,safety,ILO surveyLib - Bangladesh LFS 2022 microdata,manual,https://webapps.ilo.org/surveyLib/index.php/catalog/8538,Requires free account
+ilostat_bgd,safety,ILOSTAT Bangladesh country profile (OSH indicators),api,https://ilostat.ilo.org/data/country-profiles/bgd/,Bulk CSV via ILOSTAT bulk download service
+wb_bgd,safety,World Bank Bangladesh labour indicators,api,https://api.worldbank.org/v2/country/BD/indicator/SL.TLF.TOTL.IN?format=json&per_page=500,Open JSON API - no key needed
+mendeley_aqi,environment,Bangladesh AQI Dataset 2000-2025 (1048551 hourly records / 103 cities),mendeley,https://data.mendeley.com/datasets/9j447cynb9/2,Dataset DOI 10.17632/9j447cynb9.2
+mendeley_ohs_rmg,environment,RMG occupational health & safety vs productivity dataset,mendeley,https://data.mendeley.com/datasets/f4pw96x5rx/1,Three RMG factories
+mendeley_welders,safety,Welders OHS survey Bangladesh 2022 (v3 2025),mendeley,https://data.mendeley.com/datasets/hmd8b3nbff/3,DOI 10.17632/hmd8b3nbff.3
+dib_depz,environment,DEPZ air pollutant dataset 2019-2023 (PM2.5 PM10 CO AQI),html,https://www.sciencedirect.com/science/article/pii/S2352340924005614,Open access; supplementary data files
+dib_iot_aqi,environment,IoT AQI dataset Dhaka & Gazipur (155406 rows),html,https://www.sciencedirect.com/science/article/pii/S2352340924005456,Open access; linked Mendeley mirror
+doe_case,environment,DoE CASE project AQI / CAMS stations,html,http://case.doe.gov.bd/index.php?option=com_content&view=article&id=29&Itemid=7,Legacy site; tables render server-side
+waqi_search,environment,WAQI/AQICN Bangladesh station index,api,https://api.waqi.info/search/?keyword=bangladesh&token=YOUR_TOKEN,Free token from aqicn.org/data-platform/token/
+kaggle_aqi,environment,Kaggle - Air Quality Index of Bangladesh,kaggle,tahmidmir/air-quality-index-of-bangladesh-dataset,Needs kaggle CLI + ~/.kaggle/kaggle.json
+plos_oi,research,Occupational injuries among garment & textile workers (LFS 2016-17),file,https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0332624&type=printable,Open access PDF
+pmc_welders,research,Dataset on occupational health among welders (DIB 2025),html,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12549782/,Open access
+pmc_msf,research,MSF occupational health clinics Dhaka 2014-2023,html,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12865996/,Informal sector morbidity & injury

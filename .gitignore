@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+.streamlit/secrets.toml
+
+# Raw data is fetched, not committed: the air-quality file alone is ~22 MB.
+# See README, "Getting the data".
+data/raw/*
+!data/raw/.gitkeep
+
+# Processed tables are rebuilt in ~30 seconds by scripts/build_dataset.py.
+data/processed/*
+!data/processed/.gitkeep

@@ -1,0 +1,13 @@
+# Core analysis
+pandas>=2.0
+numpy>=1.24
+
+# Dashboard
+streamlit>=1.30
+plotly>=5.18
+
+# Tests
+pytest>=7.4
+
+# One-page PDF summary (scripts/make_onepager.py)
+reportlab>=4.0
