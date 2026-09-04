@@ -34,9 +34,8 @@ statute that makes it a legal duty.
 ## Quick start
 
 ```bash
-git clone https://github.com/<ishtiaqahmed21-hub>/safefactory-bd.git
+git clone https://github.com/ishtiaqahmed21-hub/safefactory-bd.git
 cd safefactory-bd
-
 pip install -r requirements.txt
 python scripts/build_dataset.py        # ~30 seconds
 python scripts/make_demo_incidents.py  # synthetic demo register
